@@ -6,3 +6,4 @@ import sys
 print("My first python scripts!! Woohooo!")
 
 print(sys.argv)
+
