@@ -1,0 +1,44 @@
+2021-04-01 17:06:44,196 - DEBUG - START PROGRAM
+2021-04-01 17:06:44,196 - DEBUG - Start factorial (7)
+2021-04-01 17:06:44,196 - DEBUG - i is 1, total is 1
+2021-04-01 17:06:44,196 - DEBUG - i is 2, total is 2
+2021-04-01 17:06:44,196 - DEBUG - i is 3, total is 6
+2021-04-01 17:06:44,196 - DEBUG - i is 4, total is 24
+2021-04-01 17:06:44,196 - DEBUG - i is 5, total is 120
+2021-04-01 17:06:44,197 - DEBUG - i is 6, total is 720
+2021-04-01 17:06:44,197 - DEBUG - i is 7, total is 5040
+2021-04-01 17:06:44,197 - INFO - Return value is 5040
+2021-04-01 17:06:44,197 - DEBUG - END PROGRAM
+2021-04-01 17:07:32,735 - DEBUG - START PROGRAM
+2021-04-01 17:07:32,735 - DEBUG - Start factorial (7)
+2021-04-01 17:07:32,736 - DEBUG - i is 1, total is 1
+2021-04-01 17:07:32,736 - DEBUG - i is 2, total is 2
+2021-04-01 17:07:32,736 - DEBUG - i is 3, total is 6
+2021-04-01 17:07:32,736 - DEBUG - i is 4, total is 24
+2021-04-01 17:07:32,736 - DEBUG - i is 5, total is 120
+2021-04-01 17:07:32,736 - DEBUG - i is 6, total is 720
+2021-04-01 17:07:32,736 - DEBUG - i is 7, total is 5040
+2021-04-01 17:07:32,736 - INFO - Return value is 5040
+2021-04-01 17:07:32,736 - DEBUG - END PROGRAM
+2021-04-01 17:07:34,459 - DEBUG - START PROGRAM
+2021-04-01 17:07:34,459 - DEBUG - Start factorial (7)
+2021-04-01 17:07:34,459 - DEBUG - i is 1, total is 1
+2021-04-01 17:07:34,459 - DEBUG - i is 2, total is 2
+2021-04-01 17:07:34,459 - DEBUG - i is 3, total is 6
+2021-04-01 17:07:34,459 - DEBUG - i is 4, total is 24
+2021-04-01 17:07:34,460 - DEBUG - i is 5, total is 120
+2021-04-01 17:07:34,460 - DEBUG - i is 6, total is 720
+2021-04-01 17:07:34,460 - DEBUG - i is 7, total is 5040
+2021-04-01 17:07:34,460 - INFO - Return value is 5040
+2021-04-01 17:07:34,460 - DEBUG - END PROGRAM
+2021-04-01 17:07:41,244 - DEBUG - START PROGRAM
+2021-04-01 17:07:41,244 - DEBUG - Start factorial (7)
+2021-04-01 17:07:41,244 - DEBUG - i is 1, total is 1
+2021-04-01 17:07:41,245 - DEBUG - i is 2, total is 2
+2021-04-01 17:07:41,245 - DEBUG - i is 3, total is 6
+2021-04-01 17:07:41,245 - DEBUG - i is 4, total is 24
+2021-04-01 17:07:41,245 - DEBUG - i is 5, total is 120
+2021-04-01 17:07:41,245 - DEBUG - i is 6, total is 720
+2021-04-01 17:07:41,245 - DEBUG - i is 7, total is 5040
+2021-04-01 17:07:41,245 - INFO - Return value is 5040
+2021-04-01 17:07:41,245 - DEBUG - END PROGRAM
