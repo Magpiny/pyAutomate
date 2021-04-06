@@ -54,4 +54,4 @@ class AnotherSchool(School):
 
 
 school_a = AnotherSchool("Siaya Township Pri School", 1050, "blue")
-print(school_a.name)
+print(f"{school_a.name} has {school_a.population} students and their brand color is {school_a.color}")
